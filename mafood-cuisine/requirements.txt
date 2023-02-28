@@ -1,0 +1,8 @@
+streamlit==1.6.0
+altair
+click==8.0.4
+panda
+vega_datasets
+streamlit-echarts
+pyecharts
+

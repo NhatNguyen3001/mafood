@@ -1,0 +1,3 @@
+streamlit==1.6.0
+streamlit-folium
+click==8.0.4

@@ -1,0 +1,85 @@
+@font-face {
+  font-family: HelveticaNeue;
+  src: url("https://mafood-homepage.herokuapp.com/");
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+
+.root {
+  font-family: HelveticaNeue;
+}
+.header_container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.header_text_container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-bottom: 10%;
+}
+
+.body {
+  font-family: HelveticaNeue;
+}
+
+.title {
+  margin: 0px;
+  width: 100%;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: 500;
+  color: white;
+  text-align: left;
+}
+.description {
+  padding: 8px 0px 0px;
+  font-weight: 300;
+  color: rgb(251, 251, 251);
+  font-size: 24px;
+  text-align: left;
+}
+.description_small {
+  padding: 8px 0px 0px;
+  font-weight: 300;
+  color: rgb(251, 251, 251);
+  font-size: 24px;
+  font-style: italic;
+  text-align: left;
+}
+
+.intro_content_container {
+  margin: 5.5em 15em 5.5em 15em;
+}
+.intro_title {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 39px;
+  color: #f37220;
+  text-align: left;
+}
+.intro_description {
+  font-size: 21px;
+  padding: 30px 0px;
+  font-weight: 400;
+  line-height: 24pt;
+  opacity: 0.8;
+  text-align: left;
+  margin-bottom: 5%;
+}
+.intro_title_black {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 39px;
+  color: black;
+  text-align: left;
+}
+.map {
+  margin: 5.5em 14.3em 10em 14.3em;
+  height: 100%;
+}
